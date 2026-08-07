@@ -1,1 +1,3 @@
-C++ Qt-GUI Chess Application
+Qt-Chess: C++ Qt-GUI Chess Application
+
+
