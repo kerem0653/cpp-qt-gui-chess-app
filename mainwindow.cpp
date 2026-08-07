@@ -1,7 +1,6 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 #include <QMessageBox>
-#include <QTimer>
 #include "board.h"
 // --- first y/col after x/row --- //
 
