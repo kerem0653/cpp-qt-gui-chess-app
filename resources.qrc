@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="wRook">pieces-svg/rook-w.svg</file>
+        <file alias="bRook">pieces-svg/rook-b.svg</file>
+        <file alias="wQueen">pieces-svg/queen-w.svg</file>
+        <file alias="bQueen">pieces-svg/queen-b.svg</file>
+        <file alias="wPawn">pieces-svg/pawn-w.svg</file>
+        <file alias="bPawn">pieces-svg/pawn-b.svg</file>
+        <file alias="wKnight">pieces-svg/knight-w.svg</file>
+        <file alias="bKnight">pieces-svg/knight-b.svg</file>
+        <file alias="wKing">pieces-svg/king-w.svg</file>
+        <file alias="bKing">pieces-svg/king-b.svg</file>
+        <file alias="wBishop">pieces-svg/bishop-w.svg</file>
+        <file alias="bBishop">pieces-svg/bishop-b.svg</file>
+    </qresource>
+</RCC>
